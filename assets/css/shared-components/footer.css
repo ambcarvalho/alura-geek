@@ -1,0 +1,7 @@
+.footer__info {
+  background-color: hsl(214, 78%, 95%);
+}
+
+footer strong {
+  font-weight: bold;
+}
